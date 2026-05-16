@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Perjalanan Karier Jisoo BLACKPINK dan Popularitas Global K-Pop</title>
+
+<meta name="description" content="Artikel edukasi mengenai perjalanan karier Jisoo BLACKPINK, perkembangan budaya K-Pop, serta pengaruh industri hiburan Korea Selatan di era digital modern.">
+
+<meta name="robots" content="index, follow, max-image-preview:large">
+
+<link rel="canonical" href="https://username.github.io/kajian-budaya-populer/">
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="id_ID">
+<meta property="og:title" content="Perjalanan Karier Jisoo BLACKPINK">
+<meta property="og:description" content="Kajian budaya populer modern dan perkembangan industri hiburan Korea Selatan.">
+<meta property="og:url" content="https://username.github.io/kajian-budaya-populer/">
+<meta property="og:site_name" content="Kajian Budaya Populer">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Perjalanan Karier Jisoo BLACKPINK">
+<meta name="twitter:description" content="Artikel edukasi budaya populer dan perkembangan K-Pop global.">
+
+<meta name="theme-color" content="#17324d">
+
+<script type="application/ld+json">
+{
+"@context":"https://schema.org",
+"@type":"Article",
+"headline":"Perjalanan Karier Jisoo BLACKPINK",
+"description":"Artikel edukasi budaya populer modern dan perkembangan industri hiburan Korea Selatan.",
+"inLanguage":"id-ID",
+"author":{
+"@type":"Organization",
+"name":"Kajian Budaya Populer"
+},
+"publisher":{
+"@type":"Organization",
+"name":"Kajian Budaya Populer"
+}
+}
+</script>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box
+}
+
+body{
+background:#edf1f5;
+font-family:Arial,Helvetica,sans-serif;
+color:#222;
+line-height:1.8
+}
+
+.top-header{
+background:#17324d;
+padding:24px;
+border-bottom:4px solid #102335
+}
+
+.top-header h1{
+color:#fff;
+font-size:30px;
+font-weight:700
+}
+
+.top-header p{
+color:#d8e3ee;
+font-size:14px;
+margin-top:5px
+}
+
+.container{
+max-width:960px;
+margin:30px auto;
+padding:20px
+}
+
+.article-box{
+background:#fff;
+border:1px solid #d6dde5;
+padding:35px;
+box-shadow:0 2px 6px rgba(0,0,0,.05)
+}
+
+.article-box h2{
+font-size:30px;
+line-height:1.4;
+margin-bottom:25px;
+color:#17324d
+}
+
+.article-box h3{
+font-size:24px;
+margin-top:35px;
+margin-bottom:15px;
+border-left:5px solid #17324d;
+padding-left:12px;
+color:#17324d
+}
+
+.article-box p{
+font-size:16px;
+margin-bottom:20px;
+text-align:justify;
+color:#333
+}
+
+.article-box blockquote{
+background:#f4f7fa;
+border-left:5px solid #17324d;
+padding:18px;
+margin:25px 0;
+font-style:italic;
+color:#444
+}
+
+.info-box{
+background:#f8fbff;
+border:1px solid #ccd8e5;
+padding:18px;
+margin-top:25px
+}
+
+.footer{
+margin-top:40px;
+padding:25px;
+text-align:center;
+font-size:13px;
+color:#666
+}
+
+@media(max-width:768px){
+
+.container{
+padding:10px
+}
+
+.article-box{
+padding:22px
+}
+
+.article-box h2{
+font-size:24px
+}
+
+.article-box h3{
+font-size:20px
+}
+
+}
+
+</style>
+
+</head>
+<body>
+
+<header class="top-header">
+<h1>Kajian Budaya Populer</h1>
+<p>Portal Edukasi Budaya Modern dan Media Digital</p>
+</header>
+
+<main class="container">
+
+<article class="article-box">
+
+<h2>Perjalanan Karier Jisoo BLACKPINK di Industri Hiburan Korea Selatan</h2>
+
+<p>
+Jisoo dikenal sebagai salah satu anggota grup musik Korea Selatan BLACKPINK yang berhasil menarik perhatian publik internasional melalui kemampuan vokal, <a href="http://188.166.252.84/" target="_blank" rel="noopener noreferrer">Angkanet</a>, dan kepribadian yang khas. Kehadirannya menjadi bagian dari perkembangan budaya populer Korea Selatan di tingkat global.
+</p>
+
+<p>
+Sebelum debut bersama BLACKPINK, Jisoo menjalani masa pelatihan cukup panjang di industri hiburan Korea Selatan. Proses tersebut memperlihatkan bagaimana sistem pelatihan artis di Korea menuntut disiplin, konsistensi, dan kemampuan beradaptasi di dunia hiburan modern.
+</p>
+
+<blockquote>
+Perjalanan karier artis Korea Selatan umumnya melalui proses pelatihan yang panjang sebelum memasuki industri hiburan profesional <a href="https://data-hk.store/" target="_blank" rel="noopener noreferrer">Data HK 2026</a>.
+</blockquote>
+
+<h3>Awal Popularitas BLACKPINK</h3>
+
+<p>
+BLACKPINK mulai dikenal luas sejak debut mereka membawa konsep musik modern dengan identitas visual yang kuat. Grup ini kemudian berkembang menjadi salah satu ikon K-Pop global dengan penggemar dari berbagai negara.
+</p>
+
+<p>
+Popularitas tersebut juga meningkatkan minat masyarakat internasional terhadap budaya Korea Selatan, termasuk musik, fashion, hiburan digital, dan drama Korea modern.
+</p>
+
+<h3>Aktivitas Jisoo di Dunia Hiburan</h3>
+
+<p>
+Selain aktif sebagai penyanyi, Jisoo juga terlibat dalam berbagai proyek hiburan seperti dunia akting, pemotretan majalah, dan kerja sama industri <a href="https://datahk-lotto.site/" target="_blank" rel="noopener noreferrer">Data HK Lotto</a> internasional. Hal ini menunjukkan bagaimana artis K-Pop modern berkembang menjadi figur publik global.
+</p>
+
+<div class="info-box">
+
+<strong>Informasi Tambahan</strong>
+
+<p>
+Perkembangan industri K-Pop menjadi salah satu contoh keberhasilan ekspor budaya populer Korea Selatan melalui internet dan media digital modern.
+</p>
+
+</div>
+
+<h3>Pengaruh K-Pop di Era Digital</h3>
+
+<p>
+Media sosial dan platform video digital membantu penyebaran musik K-Pop secara global. Penggemar dari berbagai <a href="https://datahk1.site/" target="_blank" rel="noopener noreferrer">Data HK</a> kini dapat mengikuti perkembangan artis favorit mereka dengan lebih cepat melalui internet.
+</p>
+
+<p>
+Fenomena tersebut memperlihatkan bagaimana teknologi digital mampu mempercepat penyebaran budaya populer lintas negara dan generasi.
+</p>
+
+</article>
+
+<footer class="footer">
+© 2026 Kajian Budaya Populer
+</footer>
+
+</main>
+
+</body>
+</html>
