@@ -11,13 +11,13 @@
 
 <meta name="robots" content="index, follow, max-image-preview:large">
 
-<link rel="canonical" href="https://username.github.io/kajian-budaya-populer/">
+<link rel="canonical" href="https://isakoofficial01-oss.github.io/kajian-budaya-populer/">
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="id_ID">
 <meta property="og:title" content="Perjalanan Karier Jisoo BLACKPINK">
 <meta property="og:description" content="Kajian budaya populer modern dan perkembangan industri hiburan Korea Selatan.">
-<meta property="og:url" content="https://username.github.io/kajian-budaya-populer/">
+<meta property="og:url" content="https://isakoofficial01-oss.github.io/kajian-budaya-populer/">
 <meta property="og:site_name" content="Kajian Budaya Populer">
 
 <meta name="twitter:card" content="summary_large_image">
